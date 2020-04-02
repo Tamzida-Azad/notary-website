@@ -14,8 +14,8 @@
 }
 
 .top_head {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 0px;
+    padding-bottom: 0px;
     background-color: #535D69;
     width: 100%;
     overflow: hidden;
@@ -24,6 +24,7 @@
 
 .wrapper3 {
     width: 72%;
+    height: 20%;
     margin-left: 224px;
     overflow: hidden;
 }
@@ -44,7 +45,16 @@
 
 }
 
-
+.search_icon {
+    width: 20%;
+    margin-right: 20px;
+    float: left;
+    background-color: #535D69;
+}
+.search_icon img{
+    width: 44%;
+    background-color: #535D69;
+}
 .media_icon {
     width: 35%;
     background-color: #535D69;
@@ -85,7 +95,7 @@
     overflow: hidden;
     }
 .login_btn button {
-    padding: 8px 18px 9px 15px;
+    padding: 13px 18px 13px 15px;
     margin: 0px 0px 0px 0px;
     background-color: #a30730;
     border: none;
@@ -100,7 +110,6 @@
     background-color: #2640e0;
 }
 .down_head {
-    border: 1px solid #53f041;
     padding-top: 40px;
     padding-bottom: 40px;
     background-color: white;
@@ -123,21 +132,12 @@
 .wrap{
     border: 2px solid black;
     overflow: hidden;
-
 }
 .text {
-    background-color: yellow;
     border: 1px solid white;
     width: 40%;
     padding: 160px 0 160px 0;
     margin: 170px 0px 0px 224px;
-
-    /*height: 300px;
-    width: 295px;*/
-    /*padding-right: 600px;
-    padding-top: 200px;
-    padding-bottom: 200px;
-    margin: 0px 454px 140px 224px;*/
 }
 
 .text_h1 {
