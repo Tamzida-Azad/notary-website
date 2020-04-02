@@ -1,0 +1,222 @@
+*{
+   margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main_wrapper{
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+/*Header start*/
+.head_part {
+   
+}
+
+.top_head {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #535D69;
+    width: 100%;
+    overflow: hidden;
+    margin: 0;
+}
+
+.wrapper3 {
+    width: 72%;
+    margin-left: 224px;
+    overflow: hidden;
+}
+
+.welcome_text {
+    color: white;
+    font-family: sans-serif;
+    float: left;
+    width: 20%;
+    float: left;
+    margin-top: 20px;
+}
+
+.right_nav {
+    float: right;
+    width: 50%;
+    overflow: hidden;
+
+}
+
+
+.media_icon {
+    width: 35%;
+    background-color: #535D69;
+    float: left;
+    overflow: hidden;
+}
+.linkedin_icon {
+    width: 25%;
+    margin: 0px 0px 0px 8px;
+    float: left;
+}
+.linkedin_icon img{
+    width: 100%;
+    background-color: #535D69;
+}
+.tweeter_icon {
+    width: 25%;
+    margin-right: 20px;
+    float: right;
+}
+.tweeter_icon img{
+    width: 100%;
+    background-color: #535D69;
+}
+.fb_icon {
+    width: 25%;
+    margin: 0px 12px 0px 0px;
+    float: right;
+}
+.fb_icon img{
+    width: 100%;
+    background-color: #535D69;
+}
+.login_btn {
+    width: 25%;
+    float: right;
+    margin: 0px 0px 0px 0px;
+    overflow: hidden;
+    }
+.login_btn button {
+    padding: 8px 18px 9px 15px;
+    margin: 0px 0px 0px 0px;
+    background-color: #a30730;
+    border: none;
+    color: whitesmoke;
+    font-size: 20px;
+    font-family: sans-serif;
+    cursor: pointer;
+    transition: .5s;
+
+}
+.login_btn button:hover{
+    background-color: #2640e0;
+}
+.down_head {
+    border: 1px solid #53f041;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: white;
+}
+
+.logo {
+}
+
+.menu {
+}
+
+.banner {
+    background-image: url("background.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    }
+.wrap{
+    border: 2px solid black;
+    overflow: hidden;
+
+}
+.text {
+    background-color: yellow;
+    border: 1px solid white;
+    width: 40%;
+    padding: 160px 0 160px 0;
+    margin: 170px 0px 0px 224px;
+
+    /*height: 300px;
+    width: 295px;*/
+    /*padding-right: 600px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    margin: 0px 454px 140px 224px;*/
+}
+
+.text_h1 {
+}
+
+.text_p {
+}
+
+.notarize_btn {
+}
+
+.wrapper2 {
+}
+
+.middle_part {
+}
+
+.text_h2 {
+}
+
+.text_p1 {
+}
+
+.circles {
+}
+
+.circle_icon {
+}
+
+.circle_text {
+}
+
+.wrapper4 {
+}
+
+.center {
+}
+
+.wrapper4_left {
+}
+
+.learn_btn {
+}
+
+.wrapper4_right {
+}
+
+.video {
+}
+
+.feature {
+}
+
+.service {
+}
+
+.icon {
+}
+
+.text_head {
+}
+
+.se_all_btn {
+}
+
+.footer {
+}
+
+.foot_content {
+}
+
+.footer_head {
+}
+
+.footer_txt {
+}
+
+.media {
+}
+
+.footer_bottom {
+}
